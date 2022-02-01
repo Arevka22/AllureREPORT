@@ -2,47 +2,47 @@
 <testng-results ignored="0" total="3" passed="2" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-01-31T21:42:42 EET" name="Default suite" finished-at="2022-01-31T21:42:53 EET" duration-ms="11302">
+  <suite started-at="2022-02-01T10:08:13 EET" name="Suite" finished-at="2022-02-01T10:08:25 EET" duration-ms="11339">
     <groups>
     </groups>
-    <test started-at="2022-01-31T21:42:42 EET" name="Default test" finished-at="2022-01-31T21:42:53 EET" duration-ms="11302">
+    <test started-at="2022-02-01T10:08:13 EET" name="Test" finished-at="2022-02-01T10:08:25 EET" duration-ms="11339">
       <class name="com.allure.Test1">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.allure.Test1@6c372fe6]" started-at="2022-01-31T21:42:42 EET" name="setUp" finished-at="2022-01-31T21:42:46 EET" duration-ms="3981" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.allure.Test1@4349754]" started-at="2022-02-01T10:08:13 EET" name="setUp" finished-at="2022-02-01T10:08:18 EET" duration-ms="4601" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="logoPresence()[pri:1, instance:com.allure.Test1@6c372fe6]" started-at="2022-01-31T21:42:46 EET" name="logoPresence" finished-at="2022-01-31T21:42:46 EET" duration-ms="129" status="PASS">
+        <test-method signature="logoPresence()[pri:1, instance:com.allure.Test1@4349754]" started-at="2022-02-01T10:08:18 EET" name="logoPresence" finished-at="2022-02-01T10:08:18 EET" duration-ms="95" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoPresence -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.allure.Test1@6c372fe6]" started-at="2022-01-31T21:42:46 EET" name="tearDown" finished-at="2022-01-31T21:42:46 EET" duration-ms="192" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.allure.Test1@4349754]" started-at="2022-02-01T10:08:18 EET" name="tearDown" finished-at="2022-02-01T10:08:18 EET" duration-ms="137" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.allure.Test1@6c372fe6]" started-at="2022-01-31T21:42:46 EET" name="setUp" finished-at="2022-01-31T21:42:50 EET" duration-ms="3307" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.allure.Test1@4349754]" started-at="2022-02-01T10:08:18 EET" name="setUp" finished-at="2022-02-01T10:08:21 EET" duration-ms="2877" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="titlePresence()[pri:2, instance:com.allure.Test1@6c372fe6]" started-at="2022-01-31T21:42:50 EET" name="titlePresence" finished-at="2022-01-31T21:42:50 EET" duration-ms="35" status="PASS">
+        <test-method signature="titlePresence()[pri:2, instance:com.allure.Test1@4349754]" started-at="2022-02-01T10:08:21 EET" name="titlePresence" finished-at="2022-02-01T10:08:21 EET" duration-ms="36" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- titlePresence -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.allure.Test1@6c372fe6]" started-at="2022-01-31T21:42:50 EET" name="tearDown" finished-at="2022-01-31T21:42:50 EET" duration-ms="120" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.allure.Test1@4349754]" started-at="2022-02-01T10:08:21 EET" name="tearDown" finished-at="2022-02-01T10:08:22 EET" duration-ms="121" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.allure.Test1@6c372fe6]" started-at="2022-01-31T21:42:50 EET" name="setUp" finished-at="2022-01-31T21:42:53 EET" duration-ms="3305" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.allure.Test1@4349754]" started-at="2022-02-01T10:08:22 EET" name="setUp" finished-at="2022-02-01T10:08:25 EET" duration-ms="3130" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="registrationTest()[pri:3, instance:com.allure.Test1@6c372fe6]" started-at="2022-01-31T21:42:53 EET" name="registrationTest" finished-at="2022-01-31T21:42:53 EET" duration-ms="6" status="SKIP">
+        <test-method signature="registrationTest()[pri:3, instance:com.allure.Test1@4349754]" started-at="2022-02-01T10:08:25 EET" name="registrationTest" finished-at="2022-02-01T10:08:25 EET" duration-ms="5" status="SKIP">
           <exception class="org.testng.SkipException">
             <message>
               <![CDATA[Skipping this Test]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.testng.SkipException: Skipping this Test
-at com.allure.Test1.registrationTest(Test1.java:59)
+at com.allure.Test1.registrationTest(Test1.java:64)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -77,11 +77,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registrationTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.allure.Test1@6c372fe6]" started-at="2022-01-31T21:42:53 EET" name="tearDown" finished-at="2022-01-31T21:42:53 EET" duration-ms="122" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.allure.Test1@4349754]" started-at="2022-02-01T10:08:25 EET" name="tearDown" finished-at="2022-02-01T10:08:25 EET" duration-ms="128" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.allure.Test1 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
