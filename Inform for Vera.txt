@@ -1,0 +1,1 @@
+In comand line: allure serve /Users/Vera/eclipse-workspace/AllureREPORT/allure-results
