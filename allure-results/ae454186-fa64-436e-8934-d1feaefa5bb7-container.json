@@ -1,1 +1,0 @@
-{"uuid":"ae454186-fa64-436e-8934-d1feaefa5bb7","name":"com.allure.Test1.tearDown","children":["14ed790d-619f-4cea-9714-1b79e38ee36d"],"description":"","befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1643658170112,"stop":1643658170232}],"start":1643658170112,"stop":1643658170232}
